@@ -6,7 +6,7 @@
 int main(){
 	int modeScore, maxCount, count;
 	double score[10];
-	double average, sum, min, max, mode;					//mang chua diem co the co dau phay, average cung vay
+	double average, sum, min, max, mode;					//mang chua diem co the co so thap phan, average cung vay
 	sum = 0, count = 0;
 
 	printf("Nhap diem cua 10 hoc sinh: \n");
